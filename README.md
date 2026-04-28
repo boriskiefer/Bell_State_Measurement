@@ -89,8 +89,8 @@ Suggested repository structure:
 ```text
 .
 ├── README.md
-├── sim\_bsm.ipynb
-├── sim\_bsm\_educational\_brief.tex
+├── sim_bsm.ipynb
+├── sim_bsm_educational_brief.tex
 ```
 
 The notebook contains the simulator. The LaTeX file contains the educational brief, guided exercises, pre- and post-questions, assessment, and answer key.

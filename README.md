@@ -254,11 +254,9 @@ This simulator can be extended into:
 
 ## License
 
-Choose a license appropriate for your use case.
-
-For code, a permissive license such as MIT is often suitable.
-
-For educational text, figures, and classroom materials, a Creative Commons license may be appropriate.
+This project is released under the MIT License.
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the terms of the MIT License.
+See the `LICENSE` file for details.
 
 ## Attribution
 
